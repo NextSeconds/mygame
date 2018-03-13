@@ -1,0 +1,6 @@
+id	FilePath
+5000	Audio\Music\DaAo.mp3
+5001	Audio\Music\DaAo_2.mp3
+5002	Audio\Sound\ShuiLiu_1.mp3
+5003	Audio\Sound\NiaoJiao_1.mp3
+5004	Audio\items\ZhuangBei_get.wav

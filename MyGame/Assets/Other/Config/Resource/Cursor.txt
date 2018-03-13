@@ -1,0 +1,4 @@
+id	FilePath
+1	Cursor/Hover.png
+2	Cursor/Attack1.png
+3	Cursor/Attack2.png

@@ -1,0 +1,1957 @@
+<AssetList>
+  <Asset Id="900102" AssetPath="Effect/diliezhan_GC_Cast_Origin.asset" TotalSize="141.24">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared75.asset" />
+    <Depend AssetPath="Effect/Shared/Shared76.asset" />
+    <Depend AssetPath="Effect/Shared/Shared157.asset" />
+    <Depend AssetPath="Effect/Shared/Shared158.asset" />
+    <Depend AssetPath="Effect/Shared/Shared212.asset" />
+    <Depend AssetPath="Effect/Shared/Shared213.asset" />
+  </Asset>
+  <Asset Id="900103" AssetPath="Effect/diliezhan_BJ_Impact_Origin.asset" TotalSize="215.23">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared74.asset" />
+    <Depend AssetPath="Effect/Shared/Shared76.asset" />
+    <Depend AssetPath="Effect/Shared/Shared98.asset" />
+    <Depend AssetPath="Effect/Shared/Shared125.asset" />
+    <Depend AssetPath="Effect/Shared/Shared153.asset" />
+    <Depend AssetPath="Effect/Shared/Shared154.asset" />
+    <Depend AssetPath="Effect/Shared/Shared155.asset" />
+    <Depend AssetPath="Effect/Shared/Shared156.asset" />
+    <Depend AssetPath="Effect/Shared/Shared211.asset" />
+  </Asset>
+  <Asset Id="900104" AssetPath="Effect/diliezhan_BF_Cast_Waist.asset" TotalSize="34.17">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared97.asset" />
+    <Depend AssetPath="Effect/Shared/Shared152.asset" />
+    <Depend AssetPath="Effect/Shared/Shared156.asset" />
+  </Asset>
+  <Asset Id="900201" AssetPath="Effect/tiebushan_QS_Cast_Origin.asset" TotalSize="171.18">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared73.asset" />
+    <Depend AssetPath="Effect/Shared/Shared95.asset" />
+    <Depend AssetPath="Effect/Shared/Shared96.asset" />
+    <Depend AssetPath="Effect/Shared/Shared124.asset" />
+    <Depend AssetPath="Effect/Shared/Shared151.asset" />
+    <Depend AssetPath="Effect/Shared/Shared209.asset" />
+    <Depend AssetPath="Effect/Shared/Shared210.asset" />
+  </Asset>
+  <Asset Id="900204" AssetPath="Effect/tiebushan_BF_State_Origin.asset" TotalSize="35.82">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared151.asset" />
+    <Depend AssetPath="Effect/Shared/Shared210.asset" />
+  </Asset>
+  <Asset Id="900302" AssetPath="Effect/kuangfengzhan_GC_Cast_Waist.asset" TotalSize="45.77">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared73.asset" />
+    <Depend AssetPath="Effect/Shared/Shared158.asset" />
+    <Depend AssetPath="Effect/Shared/Shared213.asset" />
+  </Asset>
+  <Asset Id="900303" AssetPath="Effect/kuangfengzhan_BJ_Impact_Waist.asset" TotalSize="29.50">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared72.asset" />
+    <Depend AssetPath="Effect/Shared/Shared94.asset" />
+  </Asset>
+  <Asset Id="900304" AssetPath="Effect/kuangfengzhan_BF_Cast_Origin.asset" TotalSize="110.85">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared123.asset" />
+    <Depend AssetPath="Effect/Shared/Shared149.asset" />
+    <Depend AssetPath="Effect/Shared/Shared150.asset" />
+    <Depend AssetPath="Effect/Shared/Shared207.asset" />
+    <Depend AssetPath="Effect/Shared/Shared208.asset" />
+  </Asset>
+  <Asset Id="900403" AssetPath="Effect/menghukaishan_BJ_Impact_Origin.asset" TotalSize="165.49">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared74.asset" />
+    <Depend AssetPath="Effect/Shared/Shared93.asset" />
+    <Depend AssetPath="Effect/Shared/Shared98.asset" />
+    <Depend AssetPath="Effect/Shared/Shared120.asset" />
+    <Depend AssetPath="Effect/Shared/Shared121.asset" />
+    <Depend AssetPath="Effect/Shared/Shared122.asset" />
+    <Depend AssetPath="Effect/Shared/Shared154.asset" />
+    <Depend AssetPath="Effect/Shared/Shared155.asset" />
+    <Depend AssetPath="Effect/Shared/Shared206.asset" />
+  </Asset>
+  <Asset Id="900404" AssetPath="Effect/menghukaishan_BJ1_Impact_Origin.asset" TotalSize="96.48">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared75.asset" />
+    <Depend AssetPath="Effect/Shared/Shared92.asset" />
+    <Depend AssetPath="Effect/Shared/Shared93.asset" />
+    <Depend AssetPath="Effect/Shared/Shared98.asset" />
+    <Depend AssetPath="Effect/Shared/Shared119.asset" />
+    <Depend AssetPath="Effect/Shared/Shared121.asset" />
+    <Depend AssetPath="Effect/Shared/Shared122.asset" />
+    <Depend AssetPath="Effect/Shared/Shared205.asset" />
+  </Asset>
+  <Asset Id="900405" AssetPath="Effect/menghukaishan_BJ1_Impact_Origin 1.asset" TotalSize="127.65">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared92.asset" />
+    <Depend AssetPath="Effect/Shared/Shared93.asset" />
+    <Depend AssetPath="Effect/Shared/Shared98.asset" />
+    <Depend AssetPath="Effect/Shared/Shared119.asset" />
+    <Depend AssetPath="Effect/Shared/Shared121.asset" />
+    <Depend AssetPath="Effect/Shared/Shared122.asset" />
+    <Depend AssetPath="Effect/Shared/Shared157.asset" />
+  </Asset>
+  <Asset Id="900406" AssetPath="Effect/menghukaishan_BJ1_Impact_Origin 2.asset" TotalSize="90.73">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared75.asset" />
+    <Depend AssetPath="Effect/Shared/Shared92.asset" />
+    <Depend AssetPath="Effect/Shared/Shared93.asset" />
+    <Depend AssetPath="Effect/Shared/Shared98.asset" />
+    <Depend AssetPath="Effect/Shared/Shared119.asset" />
+    <Depend AssetPath="Effect/Shared/Shared122.asset" />
+    <Depend AssetPath="Effect/Shared/Shared205.asset" />
+  </Asset>
+  <Asset Id="900500" AssetPath="Effect/NewEffect.asset" TotalSize="154.86">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared71.asset" />
+    <Depend AssetPath="Effect/Shared/Shared158.asset" />
+  </Asset>
+  <Asset Id="900501" AssetPath="Effect/NewEffect 1.asset" TotalSize="91.47">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared118.asset" />
+    <Depend AssetPath="Effect/Shared/Shared148.asset" />
+    <Depend AssetPath="Effect/Shared/Shared204.asset" />
+  </Asset>
+  <Asset Id="900502" AssetPath="Effect/NewEffect 2.asset" TotalSize="189.25">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared70.asset" />
+    <Depend AssetPath="Effect/Shared/Shared90.asset" />
+    <Depend AssetPath="Effect/Shared/Shared91.asset" />
+    <Depend AssetPath="Effect/Shared/Shared116.asset" />
+    <Depend AssetPath="Effect/Shared/Shared117.asset" />
+    <Depend AssetPath="Effect/Shared/Shared147.asset" />
+  </Asset>
+  <Asset Id="900503" AssetPath="Effect/NewEffect 3.asset" TotalSize="190.17">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared70.asset" />
+    <Depend AssetPath="Effect/Shared/Shared90.asset" />
+    <Depend AssetPath="Effect/Shared/Shared91.asset" />
+    <Depend AssetPath="Effect/Shared/Shared116.asset" />
+    <Depend AssetPath="Effect/Shared/Shared117.asset" />
+    <Depend AssetPath="Effect/Shared/Shared147.asset" />
+  </Asset>
+  <Asset Id="900504" AssetPath="Effect/NewEffect 4.asset" TotalSize="45.54">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared70.asset" />
+    <Depend AssetPath="Effect/Shared/Shared91.asset" />
+    <Depend AssetPath="Effect/Shared/Shared146.asset" />
+    <Depend AssetPath="Effect/Shared/Shared148.asset" />
+    <Depend AssetPath="Effect/Shared/Shared203.asset" />
+    <Depend AssetPath="Effect/Shared/Shared204.asset" />
+  </Asset>
+  <Asset Id="900505" AssetPath="Effect/NewEffect 5.asset" TotalSize="160.98">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared69.asset" />
+    <Depend AssetPath="Effect/Shared/Shared70.asset" />
+    <Depend AssetPath="Effect/Shared/Shared88.asset" />
+    <Depend AssetPath="Effect/Shared/Shared89.asset" />
+    <Depend AssetPath="Effect/Shared/Shared91.asset" />
+    <Depend AssetPath="Effect/Shared/Shared115.asset" />
+    <Depend AssetPath="Effect/Shared/Shared202.asset" />
+    <Depend AssetPath="Effect/Shared/Shared203.asset" />
+  </Asset>
+  <Asset Id="900506" AssetPath="Effect/NewEffect 6.asset" TotalSize="103.36">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared87.asset" />
+    <Depend AssetPath="Effect/Shared/Shared88.asset" />
+    <Depend AssetPath="Effect/Shared/Shared89.asset" />
+    <Depend AssetPath="Effect/Shared/Shared115.asset" />
+    <Depend AssetPath="Effect/Shared/Shared144.asset" />
+    <Depend AssetPath="Effect/Shared/Shared145.asset" />
+  </Asset>
+  <Asset Id="900507" AssetPath="Effect/NewEffect 7.asset" TotalSize="155.44">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared86.asset" />
+    <Depend AssetPath="Effect/Shared/Shared113.asset" />
+    <Depend AssetPath="Effect/Shared/Shared114.asset" />
+    <Depend AssetPath="Effect/Shared/Shared120.asset" />
+    <Depend AssetPath="Effect/Shared/Shared141.asset" />
+    <Depend AssetPath="Effect/Shared/Shared142.asset" />
+    <Depend AssetPath="Effect/Shared/Shared143.asset" />
+    <Depend AssetPath="Effect/Shared/Shared201.asset" />
+  </Asset>
+  <Asset Id="910002" AssetPath="Effect/chiyanzhou_GC_Trail_Hand.asset" TotalSize="105.40">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared112.asset" />
+    <Depend AssetPath="Effect/Shared/Shared199.asset" />
+    <Depend AssetPath="Effect/Shared/Shared200.asset" />
+  </Asset>
+  <Asset Id="910003" AssetPath="Effect/chiyanzhou_BJ_Impact_Waist.asset" TotalSize="181.50">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared76.asset" />
+    <Depend AssetPath="Effect/Shared/Shared150.asset" />
+    <Depend AssetPath="Effect/Shared/Shared197.asset" />
+    <Depend AssetPath="Effect/Shared/Shared198.asset" />
+    <Depend AssetPath="Effect/Shared/Shared212.asset" />
+  </Asset>
+  <Asset Id="910004" AssetPath="Effect/chiyanzhou_BF_State_Waist.asset" TotalSize="16.57">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared111.asset" />
+    <Depend AssetPath="Effect/Shared/Shared196.asset" />
+  </Asset>
+  <Asset Id="910101" AssetPath="Effect/huichunzhou_QS_Cast_Origin.asset" TotalSize="272.75">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared68.asset" />
+    <Depend AssetPath="Effect/Shared/Shared71.asset" />
+    <Depend AssetPath="Effect/Shared/Shared85.asset" />
+    <Depend AssetPath="Effect/Shared/Shared86.asset" />
+    <Depend AssetPath="Effect/Shared/Shared96.asset" />
+    <Depend AssetPath="Effect/Shared/Shared140.asset" />
+    <Depend AssetPath="Effect/Shared/Shared143.asset" />
+    <Depend AssetPath="Effect/Shared/Shared194.asset" />
+    <Depend AssetPath="Effect/Shared/Shared195.asset" />
+  </Asset>
+  <Asset Id="910201" AssetPath="Effect/jiansheng_QS_Cast_Origin.asset" TotalSize="329.27">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared66.asset" />
+    <Depend AssetPath="Effect/Shared/Shared67.asset" />
+    <Depend AssetPath="Effect/Shared/Shared69.asset" />
+    <Depend AssetPath="Effect/Shared/Shared85.asset" />
+    <Depend AssetPath="Effect/Shared/Shared96.asset" />
+    <Depend AssetPath="Effect/Shared/Shared110.asset" />
+    <Depend AssetPath="Effect/Shared/Shared139.asset" />
+    <Depend AssetPath="Effect/Shared/Shared192.asset" />
+    <Depend AssetPath="Effect/Shared/Shared193.asset" />
+    <Depend AssetPath="Effect/Shared/Shared195.asset" />
+  </Asset>
+  <Asset Id="910202" AssetPath="Effect/jiansheng_GC_Trail_Hand.asset" TotalSize="151.13">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared64.asset" />
+    <Depend AssetPath="Effect/Shared/Shared65.asset" />
+    <Depend AssetPath="Effect/Shared/Shared69.asset" />
+    <Depend AssetPath="Effect/Shared/Shared85.asset" />
+    <Depend AssetPath="Effect/Shared/Shared110.asset" />
+    <Depend AssetPath="Effect/Shared/Shared138.asset" />
+    <Depend AssetPath="Effect/Shared/Shared193.asset" />
+  </Asset>
+  <Asset Id="910203" AssetPath="Effect/jiansheng_BJ_Impact_Waist.asset" TotalSize="94.08">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared69.asset" />
+    <Depend AssetPath="Effect/Shared/Shared84.asset" />
+  </Asset>
+  <Asset Id="910301" AssetPath="Effect/bingningzhou_QS_Cast_Origin.asset" TotalSize="167.57">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared67.asset" />
+    <Depend AssetPath="Effect/Shared/Shared69.asset" />
+    <Depend AssetPath="Effect/Shared/Shared83.asset" />
+    <Depend AssetPath="Effect/Shared/Shared108.asset" />
+    <Depend AssetPath="Effect/Shared/Shared109.asset" />
+    <Depend AssetPath="Effect/Shared/Shared139.asset" />
+    <Depend AssetPath="Effect/Shared/Shared190.asset" />
+    <Depend AssetPath="Effect/Shared/Shared191.asset" />
+  </Asset>
+  <Asset Id="910302" AssetPath="Effect/bingningzhou_GC_Cast_Origin.asset" TotalSize="148.48">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared75.asset" />
+    <Depend AssetPath="Effect/Shared/Shared82.asset" />
+    <Depend AssetPath="Effect/Shared/Shared107.asset" />
+    <Depend AssetPath="Effect/Shared/Shared137.asset" />
+    <Depend AssetPath="Effect/Shared/Shared189.asset" />
+  </Asset>
+  <Asset Id="910303" AssetPath="Effect/bingningzhou_BJ_Cast_Origin.asset" TotalSize="270.94">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared67.asset" />
+    <Depend AssetPath="Effect/Shared/Shared74.asset" />
+    <Depend AssetPath="Effect/Shared/Shared81.asset" />
+    <Depend AssetPath="Effect/Shared/Shared82.asset" />
+    <Depend AssetPath="Effect/Shared/Shared106.asset" />
+    <Depend AssetPath="Effect/Shared/Shared107.asset" />
+    <Depend AssetPath="Effect/Shared/Shared134.asset" />
+    <Depend AssetPath="Effect/Shared/Shared135.asset" />
+    <Depend AssetPath="Effect/Shared/Shared136.asset" />
+    <Depend AssetPath="Effect/Shared/Shared188.asset" />
+    <Depend AssetPath="Effect/Shared/Shared211.asset" />
+  </Asset>
+  <Asset Id="910304" AssetPath="Effect/bingningzhou_BF_State_Waist.asset" TotalSize="22.25">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared83.asset" />
+  </Asset>
+  <Asset Id="910401" AssetPath="Effect/huofengliaoyuan_QS_Cast_Origin.asset" TotalSize="136.11">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared63.asset" />
+    <Depend AssetPath="Effect/Shared/Shared105.asset" />
+    <Depend AssetPath="Effect/Shared/Shared114.asset" />
+    <Depend AssetPath="Effect/Shared/Shared133.asset" />
+    <Depend AssetPath="Effect/Shared/Shared148.asset" />
+    <Depend AssetPath="Effect/Shared/Shared187.asset" />
+    <Depend AssetPath="Effect/Shared/Shared191.asset" />
+  </Asset>
+  <Asset Id="910403" AssetPath="Effect/huofengliaoyuan_BJ_Impact_Origin.asset" TotalSize="179.41">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared63.asset" />
+    <Depend AssetPath="Effect/Shared/Shared104.asset" />
+    <Depend AssetPath="Effect/Shared/Shared105.asset" />
+    <Depend AssetPath="Effect/Shared/Shared132.asset" />
+    <Depend AssetPath="Effect/Shared/Shared133.asset" />
+    <Depend AssetPath="Effect/Shared/Shared142.asset" />
+    <Depend AssetPath="Effect/Shared/Shared186.asset" />
+  </Asset>
+  <Asset Id="910404" AssetPath="Effect/huofengliaoyuan_BJ1_Impact_Origin.asset" TotalSize="299.20">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared63.asset" />
+    <Depend AssetPath="Effect/Shared/Shared104.asset" />
+    <Depend AssetPath="Effect/Shared/Shared105.asset" />
+    <Depend AssetPath="Effect/Shared/Shared132.asset" />
+    <Depend AssetPath="Effect/Shared/Shared133.asset" />
+    <Depend AssetPath="Effect/Shared/Shared142.asset" />
+    <Depend AssetPath="Effect/Shared/Shared155.asset" />
+    <Depend AssetPath="Effect/Shared/Shared200.asset" />
+  </Asset>
+  <Asset Id="910501" AssetPath="Effect/NewEffect 1.asset" TotalSize="29.37">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared81.asset" />
+    <Depend AssetPath="Effect/Shared/Shared97.asset" />
+    <Depend AssetPath="Effect/Shared/Shared103.asset" />
+    <Depend AssetPath="Effect/Shared/Shared185.asset" />
+  </Asset>
+  <Asset Id="910502" AssetPath="Effect/NewEffect 2.asset" TotalSize="29.15">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared81.asset" />
+    <Depend AssetPath="Effect/Shared/Shared97.asset" />
+    <Depend AssetPath="Effect/Shared/Shared103.asset" />
+    <Depend AssetPath="Effect/Shared/Shared185.asset" />
+  </Asset>
+  <Asset Id="910503" AssetPath="Effect/NewEffect 3.asset" TotalSize="29.86">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared146.asset" />
+    <Depend AssetPath="Effect/Shared/Shared184.asset" />
+  </Asset>
+  <Asset Id="910504" AssetPath="Effect/NewEffect 4.asset" TotalSize="30.78">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared146.asset" />
+    <Depend AssetPath="Effect/Shared/Shared184.asset" />
+  </Asset>
+  <Asset Id="910600" AssetPath="Effect/tishi_XP_State_Origin.asset" TotalSize="76.80">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared68.asset" />
+    <Depend AssetPath="Effect/Shared/Shared70.asset" />
+    <Depend AssetPath="Effect/Shared/Shared71.asset" />
+  </Asset>
+  <Asset Id="920002" AssetPath="Effect/fuhunjian_GC_Trail_Weapon.asset" TotalSize="56.01">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared62.asset" />
+    <Depend AssetPath="Effect/Shared/Shared65.asset" />
+    <Depend AssetPath="Effect/Shared/Shared83.asset" />
+    <Depend AssetPath="Effect/Shared/Shared131.asset" />
+    <Depend AssetPath="Effect/Shared/Shared138.asset" />
+    <Depend AssetPath="Effect/Shared/Shared140.asset" />
+  </Asset>
+  <Asset Id="920003" AssetPath="Effect/fuhunjian_BJ_Impact_Waist.asset" TotalSize="213.91">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared67.asset" />
+    <Depend AssetPath="Effect/Shared/Shared81.asset" />
+    <Depend AssetPath="Effect/Shared/Shared83.asset" />
+    <Depend AssetPath="Effect/Shared/Shared136.asset" />
+    <Depend AssetPath="Effect/Shared/Shared183.asset" />
+    <Depend AssetPath="Effect/Shared/Shared201.asset" />
+  </Asset>
+  <Asset Id="920004" AssetPath="Effect/fuhunjian_BF_State_Origin.asset" TotalSize="233.35">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared74.asset" />
+    <Depend AssetPath="Effect/Shared/Shared82.asset" />
+    <Depend AssetPath="Effect/Shared/Shared83.asset" />
+    <Depend AssetPath="Effect/Shared/Shared106.asset" />
+    <Depend AssetPath="Effect/Shared/Shared107.asset" />
+    <Depend AssetPath="Effect/Shared/Shared135.asset" />
+    <Depend AssetPath="Effect/Shared/Shared153.asset" />
+  </Asset>
+  <Asset Id="920102" AssetPath="Effect/shihunjian_GC_Trail_Weapon.asset" TotalSize="144.69">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared62.asset" />
+    <Depend AssetPath="Effect/Shared/Shared64.asset" />
+    <Depend AssetPath="Effect/Shared/Shared65.asset" />
+    <Depend AssetPath="Effect/Shared/Shared86.asset" />
+    <Depend AssetPath="Effect/Shared/Shared180.asset" />
+    <Depend AssetPath="Effect/Shared/Shared181.asset" />
+    <Depend AssetPath="Effect/Shared/Shared182.asset" />
+  </Asset>
+  <Asset Id="920103" AssetPath="Effect/shihunjian_BJ_Impact_Waist.asset" TotalSize="59.16">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared72.asset" />
+    <Depend AssetPath="Effect/Shared/Shared86.asset" />
+    <Depend AssetPath="Effect/Shared/Shared152.asset" />
+    <Depend AssetPath="Effect/Shared/Shared182.asset" />
+  </Asset>
+  <Asset Id="920104" AssetPath="Effect/shihunjian_BF_Cast_Origin.asset" TotalSize="97.13">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared102.asset" />
+    <Depend AssetPath="Effect/Shared/Shared149.asset" />
+    <Depend AssetPath="Effect/Shared/Shared152.asset" />
+  </Asset>
+  <Asset Id="920202" AssetPath="Effect/zhuixinjian_GC_Trail_Weapon.asset" TotalSize="114.77">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared62.asset" />
+    <Depend AssetPath="Effect/Shared/Shared65.asset" />
+    <Depend AssetPath="Effect/Shared/Shared80.asset" />
+    <Depend AssetPath="Effect/Shared/Shared138.asset" />
+    <Depend AssetPath="Effect/Shared/Shared179.asset" />
+    <Depend AssetPath="Effect/Shared/Shared196.asset" />
+    <Depend AssetPath="Effect/Shared/Shared199.asset" />
+  </Asset>
+  <Asset Id="920203" AssetPath="Effect/zhuixinjian_BJ_Impact_Waist.asset" TotalSize="180.95">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared79.asset" />
+    <Depend AssetPath="Effect/Shared/Shared80.asset" />
+    <Depend AssetPath="Effect/Shared/Shared179.asset" />
+  </Asset>
+  <Asset Id="920301" AssetPath="Effect/canglongzhentian_QS_Cast_Origin.asset" TotalSize="322.62">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared67.asset" />
+    <Depend AssetPath="Effect/Shared/Shared68.asset" />
+    <Depend AssetPath="Effect/Shared/Shared71.asset" />
+    <Depend AssetPath="Effect/Shared/Shared72.asset" />
+    <Depend AssetPath="Effect/Shared/Shared80.asset" />
+    <Depend AssetPath="Effect/Shared/Shared84.asset" />
+    <Depend AssetPath="Effect/Shared/Shared85.asset" />
+    <Depend AssetPath="Effect/Shared/Shared96.asset" />
+    <Depend AssetPath="Effect/Shared/Shared110.asset" />
+    <Depend AssetPath="Effect/Shared/Shared178.asset" />
+  </Asset>
+  <Asset Id="920302" AssetPath="Effect/canglongzhentian_GC_Trail_Weapon.asset" TotalSize="67.92">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared62.asset" />
+    <Depend AssetPath="Effect/Shared/Shared64.asset" />
+    <Depend AssetPath="Effect/Shared/Shared80.asset" />
+    <Depend AssetPath="Effect/Shared/Shared181.asset" />
+  </Asset>
+  <Asset Id="920303" AssetPath="Effect/canglongzhentian_BJ_Impact_Origin.asset" TotalSize="137.29">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared130.asset" />
+    <Depend AssetPath="Effect/Shared/Shared140.asset" />
+    <Depend AssetPath="Effect/Shared/Shared175.asset" />
+    <Depend AssetPath="Effect/Shared/Shared176.asset" />
+    <Depend AssetPath="Effect/Shared/Shared177.asset" />
+    <Depend AssetPath="Effect/Shared/Shared186.asset" />
+  </Asset>
+  <Asset Id="920304" AssetPath="Effect/canglongzhentian_BJ1_Cast_Origin.asset" TotalSize="414.16">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+    <Depend AssetPath="Effect/Shared/Shared67.asset" />
+    <Depend AssetPath="Effect/Shared/Shared68.asset" />
+    <Depend AssetPath="Effect/Shared/Shared71.asset" />
+    <Depend AssetPath="Effect/Shared/Shared80.asset" />
+    <Depend AssetPath="Effect/Shared/Shared84.asset" />
+    <Depend AssetPath="Effect/Shared/Shared85.asset" />
+    <Depend AssetPath="Effect/Shared/Shared96.asset" />
+    <Depend AssetPath="Effect/Shared/Shared110.asset" />
+    <Depend AssetPath="Effect/Shared/Shared177.asset" />
+    <Depend AssetPath="Effect/Shared/Shared178.asset" />
+  </Asset>
+  <Asset Id="920402" AssetPath="Effect/huoyanjian_GC_Trail_Weapon.asset" TotalSize="63.83">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared44.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared62.asset" />
+    <Depend AssetPath="Effect/Shared/Shared65.asset" />
+    <Depend AssetPath="Effect/Shared/Shared111.asset" />
+    <Depend AssetPath="Effect/Shared/Shared112.asset" />
+    <Depend AssetPath="Effect/Shared/Shared131.asset" />
+    <Depend AssetPath="Effect/Shared/Shared174.asset" />
+  </Asset>
+  <Asset Id="920403" AssetPath="Effect/huoyanjian_BJ_Impact_Waist.asset" TotalSize="150.81">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared131.asset" />
+    <Depend AssetPath="Effect/Shared/Shared150.asset" />
+    <Depend AssetPath="Effect/Shared/Shared174.asset" />
+    <Depend AssetPath="Effect/Shared/Shared176.asset" />
+    <Depend AssetPath="Effect/Shared/Shared198.asset" />
+  </Asset>
+  <Asset Id="920404" AssetPath="Effect/NewEffect.asset" TotalSize="352.60">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared61.asset" />
+    <Depend AssetPath="Effect/Shared/Shared89.asset" />
+    <Depend AssetPath="Effect/Shared/Shared141.asset" />
+    <Depend AssetPath="Effect/Shared/Shared173.asset" />
+  </Asset>
+  <Asset Id="920601" AssetPath="Effect/chumojian_QS_Cast_Origin.asset" TotalSize="258.67">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared60.asset" />
+    <Depend AssetPath="Effect/Shared/Shared63.asset" />
+    <Depend AssetPath="Effect/Shared/Shared64.asset" />
+    <Depend AssetPath="Effect/Shared/Shared68.asset" />
+    <Depend AssetPath="Effect/Shared/Shared78.asset" />
+    <Depend AssetPath="Effect/Shared/Shared84.asset" />
+    <Depend AssetPath="Effect/Shared/Shared87.asset" />
+    <Depend AssetPath="Effect/Shared/Shared92.asset" />
+    <Depend AssetPath="Effect/Shared/Shared101.asset" />
+    <Depend AssetPath="Effect/Shared/Shared120.asset" />
+    <Depend AssetPath="Effect/Shared/Shared151.asset" />
+    <Depend AssetPath="Effect/Shared/Shared172.asset" />
+    <Depend AssetPath="Effect/Shared/Shared187.asset" />
+  </Asset>
+  <Asset Id="920602" AssetPath="Effect/chumojian_GC_Impact_Origin.asset" TotalSize="64.83">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared62.asset" />
+    <Depend AssetPath="Effect/Shared/Shared63.asset" />
+    <Depend AssetPath="Effect/Shared/Shared64.asset" />
+    <Depend AssetPath="Effect/Shared/Shared92.asset" />
+    <Depend AssetPath="Effect/Shared/Shared120.asset" />
+    <Depend AssetPath="Effect/Shared/Shared172.asset" />
+  </Asset>
+  <Asset Id="920603" AssetPath="Effect/chumojian_BJ_Impact_Waist.asset" TotalSize="199.81">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared61.asset" />
+    <Depend AssetPath="Effect/Shared/Shared141.asset" />
+  </Asset>
+  <Asset Id="930000" AssetPath="Effect/NewEffect.asset" TotalSize="235.91">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared61.asset" />
+    <Depend AssetPath="Effect/Shared/Shared76.asset" />
+    <Depend AssetPath="Effect/Shared/Shared100.asset" />
+    <Depend AssetPath="Effect/Shared/Shared125.asset" />
+    <Depend AssetPath="Effect/Shared/Shared171.asset" />
+  </Asset>
+  <Asset Id="930001" AssetPath="Effect/NewEffect 1.asset" TotalSize="135.52">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared88.asset" />
+    <Depend AssetPath="Effect/Shared/Shared89.asset" />
+    <Depend AssetPath="Effect/Shared/Shared115.asset" />
+    <Depend AssetPath="Effect/Shared/Shared180.asset" />
+    <Depend AssetPath="Effect/Shared/Shared202.asset" />
+  </Asset>
+  <Asset Id="930002" AssetPath="Effect/NewEffect 2.asset" TotalSize="152.31">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared60.asset" />
+    <Depend AssetPath="Effect/Shared/Shared77.asset" />
+    <Depend AssetPath="Effect/Shared/Shared78.asset" />
+    <Depend AssetPath="Effect/Shared/Shared79.asset" />
+    <Depend AssetPath="Effect/Shared/Shared170.asset" />
+    <Depend AssetPath="Effect/Shared/Shared173.asset" />
+  </Asset>
+  <Asset Id="930003" AssetPath="Effect/NewEffect 3.asset" TotalSize="188.07">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared61.asset" />
+    <Depend AssetPath="Effect/Shared/Shared76.asset" />
+    <Depend AssetPath="Effect/Shared/Shared125.asset" />
+  </Asset>
+  <Asset Id="930004" AssetPath="Effect/NewEffect 4.asset" TotalSize="243.01">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared70.asset" />
+    <Depend AssetPath="Effect/Shared/Shared90.asset" />
+    <Depend AssetPath="Effect/Shared/Shared91.asset" />
+    <Depend AssetPath="Effect/Shared/Shared117.asset" />
+  </Asset>
+  <Asset Id="930005" AssetPath="Effect/NewEffect 5.asset" TotalSize="217.13">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared79.asset" />
+    <Depend AssetPath="Effect/Shared/Shared88.asset" />
+    <Depend AssetPath="Effect/Shared/Shared90.asset" />
+    <Depend AssetPath="Effect/Shared/Shared137.asset" />
+    <Depend AssetPath="Effect/Shared/Shared145.asset" />
+  </Asset>
+  <Asset Id="930006" AssetPath="Effect/NewEffect 6.asset" TotalSize="214.13">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared90.asset" />
+    <Depend AssetPath="Effect/Shared/Shared117.asset" />
+    <Depend AssetPath="Effect/Shared/Shared118.asset" />
+    <Depend AssetPath="Effect/Shared/Shared144.asset" />
+    <Depend AssetPath="Effect/Shared/Shared168.asset" />
+    <Depend AssetPath="Effect/Shared/Shared169.asset" />
+  </Asset>
+  <Asset Id="930007" AssetPath="Effect/NewEffect 7.asset" TotalSize="46.24">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared72.asset" />
+    <Depend AssetPath="Effect/Shared/Shared94.asset" />
+    <Depend AssetPath="Effect/Shared/Shared100.asset" />
+    <Depend AssetPath="Effect/Shared/Shared129.asset" />
+    <Depend AssetPath="Effect/Shared/Shared167.asset" />
+  </Asset>
+  <Asset Id="930008" AssetPath="Effect/NewEffect 8.asset" TotalSize="47.18">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared72.asset" />
+    <Depend AssetPath="Effect/Shared/Shared94.asset" />
+    <Depend AssetPath="Effect/Shared/Shared100.asset" />
+    <Depend AssetPath="Effect/Shared/Shared129.asset" />
+    <Depend AssetPath="Effect/Shared/Shared167.asset" />
+  </Asset>
+  <Asset Id="930009" AssetPath="Effect/NewEffect 9.asset" TotalSize="129.01">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared75.asset" />
+    <Depend AssetPath="Effect/Shared/Shared78.asset" />
+    <Depend AssetPath="Effect/Shared/Shared88.asset" />
+    <Depend AssetPath="Effect/Shared/Shared89.asset" />
+    <Depend AssetPath="Effect/Shared/Shared101.asset" />
+    <Depend AssetPath="Effect/Shared/Shared113.asset" />
+    <Depend AssetPath="Effect/Shared/Shared115.asset" />
+    <Depend AssetPath="Effect/Shared/Shared129.asset" />
+  </Asset>
+  <Asset Id="930010" AssetPath="Effect/NewEffect 10.asset" TotalSize="270.11">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared61.asset" />
+    <Depend AssetPath="Effect/Shared/Shared66.asset" />
+    <Depend AssetPath="Effect/Shared/Shared78.asset" />
+    <Depend AssetPath="Effect/Shared/Shared99.asset" />
+    <Depend AssetPath="Effect/Shared/Shared101.asset" />
+    <Depend AssetPath="Effect/Shared/Shared109.asset" />
+    <Depend AssetPath="Effect/Shared/Shared113.asset" />
+    <Depend AssetPath="Effect/Shared/Shared118.asset" />
+  </Asset>
+  <Asset Id="930011" AssetPath="Effect/NewEffect 11.asset" TotalSize="239.56">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared69.asset" />
+    <Depend AssetPath="Effect/Shared/Shared79.asset" />
+    <Depend AssetPath="Effect/Shared/Shared84.asset" />
+    <Depend AssetPath="Effect/Shared/Shared109.asset" />
+    <Depend AssetPath="Effect/Shared/Shared166.asset" />
+  </Asset>
+  <Asset Id="930012" AssetPath="Effect/NewEffect 12.asset" TotalSize="59.27">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared56.asset" />
+    <Depend AssetPath="Effect/Shared/Shared111.asset" />
+    <Depend AssetPath="Effect/Shared/Shared144.asset" />
+    <Depend AssetPath="Effect/Shared/Shared169.asset" />
+  </Asset>
+  <Asset Id="930013" AssetPath="Effect/NewEffect 13.asset" TotalSize="117.73">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared79.asset" />
+    <Depend AssetPath="Effect/Shared/Shared145.asset" />
+  </Asset>
+  <Asset Id="930014" AssetPath="Effect/NewEffect 14.asset" TotalSize="236.82">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared17.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared23.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared31.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared36.asset" />
+    <Depend AssetPath="Effect/Shared/Shared61.asset" />
+    <Depend AssetPath="Effect/Shared/Shared76.asset" />
+    <Depend AssetPath="Effect/Shared/Shared100.asset" />
+    <Depend AssetPath="Effect/Shared/Shared125.asset" />
+    <Depend AssetPath="Effect/Shared/Shared171.asset" />
+  </Asset>
+  <Asset Id="930015" AssetPath="Effect/bingqiangshu_beiji_Impact_Origin.asset" TotalSize="173.80">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared82.asset" />
+    <Depend AssetPath="Effect/Shared/Shared134.asset" />
+    <Depend AssetPath="Effect/Shared/Shared170.asset" />
+  </Asset>
+  <Asset Id="930016" AssetPath="Effect/bingzhuipai_beiji_Cast_Origin.asset" TotalSize="194.56">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared37.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared46.asset" />
+    <Depend AssetPath="Effect/Shared/Shared50.asset" />
+    <Depend AssetPath="Effect/Shared/Shared51.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared60.asset" />
+    <Depend AssetPath="Effect/Shared/Shared74.asset" />
+    <Depend AssetPath="Effect/Shared/Shared75.asset" />
+    <Depend AssetPath="Effect/Shared/Shared82.asset" />
+    <Depend AssetPath="Effect/Shared/Shared107.asset" />
+    <Depend AssetPath="Effect/Shared/Shared134.asset" />
+    <Depend AssetPath="Effect/Shared/Shared135.asset" />
+    <Depend AssetPath="Effect/Shared/Shared137.asset" />
+    <Depend AssetPath="Effect/Shared/Shared189.asset" />
+  </Asset>
+  <Asset Id="930017" AssetPath="Effect/feng.asset" TotalSize="68.29">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared123.asset" />
+    <Depend AssetPath="Effect/Shared/Shared128.asset" />
+    <Depend AssetPath="Effect/Shared/Shared149.asset" />
+    <Depend AssetPath="Effect/Shared/Shared208.asset" />
+  </Asset>
+  <Asset Id="930018" AssetPath="Effect/hanqi_beiji_Impact_Waist.asset" TotalSize="44.18">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared123.asset" />
+    <Depend AssetPath="Effect/Shared/Shared128.asset" />
+  </Asset>
+  <Asset Id="930019" AssetPath="Effect/hanqi_qishou_Cast_Waist.asset" TotalSize="121.81">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared87.asset" />
+    <Depend AssetPath="Effect/Shared/Shared112.asset" />
+    <Depend AssetPath="Effect/Shared/Shared123.asset" />
+    <Depend AssetPath="Effect/Shared/Shared128.asset" />
+  </Asset>
+  <Asset Id="930020" AssetPath="Effect/huoqiushu_qishou_State_Hand.asset" TotalSize="36.03">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared93.asset" />
+    <Depend AssetPath="Effect/Shared/Shared111.asset" />
+    <Depend AssetPath="Effect/Shared/Shared156.asset" />
+  </Asset>
+  <Asset Id="930021" AssetPath="Effect/lieguang_beiji_Impact_Origin.asset" TotalSize="110.59">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared35.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared108.asset" />
+    <Depend AssetPath="Effect/Shared/Shared157.asset" />
+    <Depend AssetPath="Effect/Shared/Shared165.asset" />
+    <Depend AssetPath="Effect/Shared/Shared207.asset" />
+  </Asset>
+  <Asset Id="930022" AssetPath="Effect/longpen_QS_Cast_Waist.asset" TotalSize="279.05">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared64.asset" />
+    <Depend AssetPath="Effect/Shared/Shared65.asset" />
+    <Depend AssetPath="Effect/Shared/Shared78.asset" />
+    <Depend AssetPath="Effect/Shared/Shared86.asset" />
+    <Depend AssetPath="Effect/Shared/Shared101.asset" />
+    <Depend AssetPath="Effect/Shared/Shared104.asset" />
+    <Depend AssetPath="Effect/Shared/Shared112.asset" />
+    <Depend AssetPath="Effect/Shared/Shared113.asset" />
+    <Depend AssetPath="Effect/Shared/Shared121.asset" />
+    <Depend AssetPath="Effect/Shared/Shared143.asset" />
+  </Asset>
+  <Asset Id="930023" AssetPath="Effect/rongyanliehuo_beiji_Impact_Origin.asset" TotalSize="126.63">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared29.asset" />
+    <Depend AssetPath="Effect/Shared/Shared41.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared63.asset" />
+    <Depend AssetPath="Effect/Shared/Shared74.asset" />
+    <Depend AssetPath="Effect/Shared/Shared97.asset" />
+    <Depend AssetPath="Effect/Shared/Shared103.asset" />
+    <Depend AssetPath="Effect/Shared/Shared104.asset" />
+    <Depend AssetPath="Effect/Shared/Shared105.asset" />
+    <Depend AssetPath="Effect/Shared/Shared132.asset" />
+    <Depend AssetPath="Effect/Shared/Shared154.asset" />
+  </Asset>
+  <Asset Id="930024" AssetPath="Effect/sanhuajuding_QS_Cast_Origin.asset" TotalSize="316.41">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared14.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared26.asset" />
+    <Depend AssetPath="Effect/Shared/Shared27.asset" />
+    <Depend AssetPath="Effect/Shared/Shared32.asset" />
+    <Depend AssetPath="Effect/Shared/Shared66.asset" />
+    <Depend AssetPath="Effect/Shared/Shared68.asset" />
+    <Depend AssetPath="Effect/Shared/Shared87.asset" />
+    <Depend AssetPath="Effect/Shared/Shared108.asset" />
+    <Depend AssetPath="Effect/Shared/Shared109.asset" />
+    <Depend AssetPath="Effect/Shared/Shared114.asset" />
+    <Depend AssetPath="Effect/Shared/Shared139.asset" />
+    <Depend AssetPath="Effect/Shared/Shared164.asset" />
+    <Depend AssetPath="Effect/Shared/Shared166.asset" />
+    <Depend AssetPath="Effect/Shared/Shared190.asset" />
+    <Depend AssetPath="Effect/Shared/Shared192.asset" />
+    <Depend AssetPath="Effect/Shared/Shared194.asset" />
+  </Asset>
+  <Asset Id="930025" AssetPath="Effect/shandianluan_beiji_State_Waist.asset" TotalSize="67.40">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared106.asset" />
+    <Depend AssetPath="Effect/Shared/Shared127.asset" />
+    <Depend AssetPath="Effect/Shared/Shared130.asset" />
+    <Depend AssetPath="Effect/Shared/Shared163.asset" />
+    <Depend AssetPath="Effect/Shared/Shared175.asset" />
+  </Asset>
+  <Asset Id="930026" AssetPath="Effect/shandianluan_guocheng_State_Waist.asset" TotalSize="67.46">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared53.asset" />
+  </Asset>
+  <Asset Id="930027" AssetPath="Effect/shandianluan_qishou_State_Hand.asset" TotalSize="57.89">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared106.asset" />
+    <Depend AssetPath="Effect/Shared/Shared127.asset" />
+    <Depend AssetPath="Effect/Shared/Shared130.asset" />
+    <Depend AssetPath="Effect/Shared/Shared163.asset" />
+  </Asset>
+  <Asset Id="930028" AssetPath="Effect/shuiyuansu_beiji_Impact_Origin.asset" TotalSize="103.44">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared30.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared42.asset" />
+    <Depend AssetPath="Effect/Shared/Shared47.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared49.asset" />
+    <Depend AssetPath="Effect/Shared/Shared52.asset" />
+    <Depend AssetPath="Effect/Shared/Shared55.asset" />
+    <Depend AssetPath="Effect/Shared/Shared87.asset" />
+    <Depend AssetPath="Effect/Shared/Shared127.asset" />
+    <Depend AssetPath="Effect/Shared/Shared153.asset" />
+    <Depend AssetPath="Effect/Shared/Shared164.asset" />
+    <Depend AssetPath="Effect/Shared/Shared206.asset" />
+  </Asset>
+  <Asset Id="952500" AssetPath="Effect/BloodSpurthongseda_Impact_Waist.asset" TotalSize="165.34">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared10.asset" />
+    <Depend AssetPath="Effect/Shared/Shared11.asset" />
+    <Depend AssetPath="Effect/Shared/Shared21.asset" />
+    <Depend AssetPath="Effect/Shared/Shared28.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared102.asset" />
+    <Depend AssetPath="Effect/Shared/Shared118.asset" />
+    <Depend AssetPath="Effect/Shared/Shared126.asset" />
+  </Asset>
+  <Asset Id="952501" AssetPath="Effect/BloodSpurthongsexiao_Impact_Waist.asset" TotalSize="89.71">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared102.asset" />
+    <Depend AssetPath="Effect/Shared/Shared126.asset" />
+  </Asset>
+  <Asset Id="952502" AssetPath="Effect/BloodSpurthongsezhong_Impact_Waist.asset" TotalSize="89.74">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared38.asset" />
+    <Depend AssetPath="Effect/Shared/Shared102.asset" />
+    <Depend AssetPath="Effect/Shared/Shared126.asset" />
+  </Asset>
+  <Asset Id="955000" AssetPath="Effect/gongjian01_beiji_Impact_Waist.asset" TotalSize="98.10">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared60.asset" />
+    <Depend AssetPath="Effect/Shared/Shared81.asset" />
+    <Depend AssetPath="Effect/Shared/Shared116.asset" />
+    <Depend AssetPath="Effect/Shared/Shared136.asset" />
+    <Depend AssetPath="Effect/Shared/Shared162.asset" />
+  </Asset>
+  <Asset Id="955001" AssetPath="Effect/gongjian02_beiji_Impact_Waist.asset" TotalSize="62.87">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared60.asset" />
+    <Depend AssetPath="Effect/Shared/Shared66.asset" />
+    <Depend AssetPath="Effect/Shared/Shared73.asset" />
+    <Depend AssetPath="Effect/Shared/Shared99.asset" />
+  </Asset>
+  <Asset Id="955101" AssetPath="Effect/zhanshi01_beiji_Impact_Waist.asset" TotalSize="101.16">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared6.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared45.asset" />
+    <Depend AssetPath="Effect/Shared/Shared66.asset" />
+    <Depend AssetPath="Effect/Shared/Shared99.asset" />
+  </Asset>
+  <Asset Id="955102" AssetPath="Effect/zhanshi02_beiji_Impact_Waist.asset" TotalSize="80.63">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared66.asset" />
+    <Depend AssetPath="Effect/Shared/Shared94.asset" />
+    <Depend AssetPath="Effect/Shared/Shared99.asset" />
+  </Asset>
+  <Asset Id="955103" AssetPath="Effect/zhanshi03_beiji_Impact_Waist.asset" TotalSize="68.53">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared20.asset" />
+    <Depend AssetPath="Effect/Shared/Shared22.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared60.asset" />
+    <Depend AssetPath="Effect/Shared/Shared73.asset" />
+    <Depend AssetPath="Effect/Shared/Shared116.asset" />
+    <Depend AssetPath="Effect/Shared/Shared147.asset" />
+  </Asset>
+  <Asset Id="955200" AssetPath="Effect/zhuazi01_beiji_Impact_Waist.asset" TotalSize="29.24">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared16.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared43.asset" />
+    <Depend AssetPath="Effect/Shared/Shared72.asset" />
+    <Depend AssetPath="Effect/Shared/Shared94.asset" />
+  </Asset>
+  <Asset Id="965000" AssetPath="Effect/shubiaodiandi.asset" TotalSize="125.27">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared8.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared25.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared97.asset" />
+    <Depend AssetPath="Effect/Shared/Shared103.asset" />
+    <Depend AssetPath="Effect/Shared/Shared162.asset" />
+    <Depend AssetPath="Effect/Shared/Shared188.asset" />
+  </Asset>
+  <Asset Id="965100" AssetPath="Effect/jiaodiguangquan_huang.asset" TotalSize="19.43">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared95.asset" />
+    <Depend AssetPath="Effect/Shared/Shared124.asset" />
+    <Depend AssetPath="Effect/Shared/Shared161.asset" />
+  </Asset>
+  <Asset Id="965101" AssetPath="Effect/jiaodiguangquan_lan.asset" TotalSize="18.38">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared95.asset" />
+    <Depend AssetPath="Effect/Shared/Shared161.asset" />
+  </Asset>
+  <Asset Id="965200" AssetPath="Effect/zhenping01.asset" TotalSize="3.51">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+  </Asset>
+  <Asset Id="975000" AssetPath="Effect/Shengjihong_Impact_Origin.asset" TotalSize="279.70">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared9.asset" />
+    <Depend AssetPath="Effect/Shared/Shared12.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared19.asset" />
+    <Depend AssetPath="Effect/Shared/Shared24.asset" />
+    <Depend AssetPath="Effect/Shared/Shared34.asset" />
+    <Depend AssetPath="Effect/Shared/Shared39.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared71.asset" />
+    <Depend AssetPath="Effect/Shared/Shared114.asset" />
+    <Depend AssetPath="Effect/Shared/Shared119.asset" />
+    <Depend AssetPath="Effect/Shared/Shared197.asset" />
+    <Depend AssetPath="Effect/Shared/Shared209.asset" />
+  </Asset>
+  <Asset Id="990100" AssetPath="Effect/TX_UI_xingxingguang001.asset" TotalSize="87.66">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared77.asset" />
+    <Depend AssetPath="Effect/Shared/Shared160.asset" />
+  </Asset>
+  <Asset Id="990101" AssetPath="Effect/TX_UI_xingxingguang002.asset" TotalSize="112.81">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared33.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared73.asset" />
+    <Depend AssetPath="Effect/Shared/Shared77.asset" />
+    <Depend AssetPath="Effect/Shared/Shared95.asset" />
+    <Depend AssetPath="Effect/Shared/Shared108.asset" />
+    <Depend AssetPath="Effect/Shared/Shared124.asset" />
+    <Depend AssetPath="Effect/Shared/Shared159.asset" />
+    <Depend AssetPath="Effect/Shared/Shared165.asset" />
+  </Asset>
+  <Asset Id="990102" AssetPath="Effect/TX_UI_xingxingguang003.asset" TotalSize="113.30">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared3.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared7.asset" />
+    <Depend AssetPath="Effect/Shared/Shared13.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared18.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared48.asset" />
+    <Depend AssetPath="Effect/Shared/Shared54.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared59.asset" />
+    <Depend AssetPath="Effect/Shared/Shared73.asset" />
+    <Depend AssetPath="Effect/Shared/Shared77.asset" />
+    <Depend AssetPath="Effect/Shared/Shared95.asset" />
+    <Depend AssetPath="Effect/Shared/Shared124.asset" />
+    <Depend AssetPath="Effect/Shared/Shared159.asset" />
+    <Depend AssetPath="Effect/Shared/Shared160.asset" />
+  </Asset>
+  <Asset Id="990200" AssetPath="Effect/TX_UI_xiantiao001.asset" TotalSize="76.72">
+    <Depend AssetPath="Effect/Shared/Shared1.asset" />
+    <Depend AssetPath="Effect/Shared/Shared2.asset" />
+    <Depend AssetPath="Effect/Shared/Shared4.asset" />
+    <Depend AssetPath="Effect/Shared/Shared5.asset" />
+    <Depend AssetPath="Effect/Shared/Shared15.asset" />
+    <Depend AssetPath="Effect/Shared/Shared40.asset" />
+    <Depend AssetPath="Effect/Shared/Shared57.asset" />
+    <Depend AssetPath="Effect/Shared/Shared58.asset" />
+    <Depend AssetPath="Effect/Shared/Shared77.asset" />
+    <Depend AssetPath="Effect/Shared/Shared168.asset" />
+    <Depend AssetPath="Effect/Shared/Shared183.asset" />
+  </Asset>
+</AssetList>

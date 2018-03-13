@@ -1,0 +1,6 @@
+SuitID	SuitName	AttrID_3_0	AttrValue_3_0	SuitNeedNum_3_0	AttrID_3_1	AttrValue_3_1	SuitNeedNum_3_1	AttrID_3_2	AttrValue_3_2	SuitNeedNum_3_2
+1	怒刚	45	73	2	0	0	0	0	0	0
+2	封稀之皮	47	471	2	5	165	3	0	0	0
+3	修蛇的血脉	45	262	3	0	0	0	0	0	0
+4	大风之翼	3	185	2	14	558	4	0	0	0
+5	踏水猰貐	19	172	2	6	255	3	0	0	0

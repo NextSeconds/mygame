@@ -1,0 +1,6 @@
+UID	FriendlyName	FriendlyValue
+1	陌人	100
+2	朋友	200
+3	密友	300
+4	死党	500
+5	至交	800

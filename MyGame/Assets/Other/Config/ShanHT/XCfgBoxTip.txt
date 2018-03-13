@@ -1,0 +1,21 @@
+ID	Content
+1	[color=00FF00]可获得以下物品之一 \n [color=OOFF00]勇武套 \n [color=00FF00]一品白虎丹 \n 一品青龙丹 \n 一品朱雀丹 \n 一品玄武丹
+2	[color=00FF00]可获得以下物品之一 \n [color=OOFF00]勇武套 \n [color=FFFFFF]一品珍珠 \n 一品翡翠 \n 一品玛瑙 \n 一品赤晶 \n 一品黄玉
+3	[color=00FF00]可获得以下物品之一 \n [color=OOFF00]百战套 \n [color=00FF00]一品白虎丹 \n 一品青龙丹 \n 一品朱雀丹 \n 一品玄武丹
+4	[color=00FF00]可获得以下物品之一 \n [color=OOFF00]百战套 \n [color=FFFFFF]一品珍珠 \n 一品翡翠 \n 一品玛瑙 \n 一品赤晶 \n 一品黄玉
+5	[color=00FF00]可获得以下物品之一 \n [color=00D8FF]龙腾套 \n [color=00FF00]一品白虎丹 \n 一品青龙丹 \n 一品朱雀丹 \n 一品玄武丹
+6	[color=00FF00]可获得以下物品之一 \n [color=00D8FF]龙腾套 \n [color=00FF00]二品珍珠 \n 二品翡翠 \n 二品玛瑙 \n 二品赤晶 \n 二品黄玉
+7	[color=00FF00]可获得以下物品之一 \n [color=00D8FF]凤翔套 \n [color=00FF00]一品白虎丹 \n 一品青龙丹 \n 一品朱雀丹 \n 一品玄武丹
+8	[color=00FF00]可获得以下物品之一 \n [color=00D8FF]凤翔套 \n [color=00FF00]二品珍珠 \n 二品翡翠 \n 二品玛瑙 \n 二品赤晶 \n 二品黄玉
+9	[color=00FF00]可获得以下物品之一 \n [color=00D8FF]皓月套 \n [color=00FF00]二品白虎丹 \n 二品青龙丹 \n 二品朱雀丹 \n 二品玄武丹
+10	[color=00FF00]可获得以下物品之一 \n [color=00D8FF]皓月套 \n [color=00FF00]三品珍珠 \n 三品翡翠 \n 三品玛瑙 \n 三品赤晶 \n 三品黄玉
+11	[color=00FF00]可获得以下物品之一 \n [color=F337F3]日耀套 \n [color=00FF00]二品白虎丹 \n 二品青龙丹 \n 二品朱雀丹 \n 二品玄武丹
+12	[color=00FF00]可获得以下物品之一 \n [color=F337F3]日耀套 \n [color=00FF00]三品珍珠 \n 三品翡翠 \n 三品玛瑙 \n 三品赤晶 \n 三品黄玉
+13	[color=00FF00]可获得以下物品之一 \n [color=F337F3]流云套 \n [color=00D8FF]三品白虎丹 \n 三品青龙丹 \n 三品朱雀丹 \n 三品玄武丹
+14	[color=00FF00]可获得以下物品之一 \n [color=F337F3]流云套 \n [color=00D8FF]四品珍珠 \n 四品翡翠 \n 四品玛瑙 \n 四品赤晶 \n 四品黄玉
+15	[color=00FF00]可获得以下物品之一 \n [color=F337F3]七星套 \n [color=00D8FF]三品白虎丹 \n 三品青龙丹 \n 三品朱雀丹 \n 三品玄武丹
+16	[color=00FF00]可获得以下物品之一 \n [color=F337F3]七星套 \n [color=00D8FF]四品珍珠 \n 四品翡翠 \n 四品玛瑙 \n 四品赤晶 \n 四品黄玉
+17	[color=00FF00]可获得以下物品之一 \n [color=FF5400]乾坤套 \n [color=00D8FF]四品白虎丹 \n 四品青龙丹 \n 四品朱雀丹 \n 四品玄武丹
+18	[color=00FF00]可获得以下物品之一 \n [color=FF5400]乾坤套 \n [color=00D8FF]五品珍珠 \n 五品翡翠 \n 五品玛瑙 \n 五品赤晶 \n 五品黄玉
+19	[color=00FF00]可获得以下物品之一 \n [color=FF5400]太虚套 \n [color=00D8FF]四品白虎丹 \n 四品青龙丹 \n 四品朱雀丹 \n 四品玄武丹
+20	[color=00FF00]可获得以下物品之一 \n [color=FF5400]太虚套 \n [color=00D8FF]五品珍珠 \n 五品翡翠 \n 五品玛瑙 \n 五品赤晶 \n 五品黄玉

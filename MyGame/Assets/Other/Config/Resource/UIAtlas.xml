@@ -1,0 +1,14 @@
+<AssetList>
+  <Asset Id="1001" AssetPath="UIAtlas/Skill_FaShi.asset" TotalSize="344.30">
+    <Depend AssetPath="UIAtlas/Shared/Shared1.asset" />
+  </Asset>
+  <Asset Id="1002" AssetPath="UIAtlas/Skill_GongShou.asset" TotalSize="511.49">
+    <Depend AssetPath="UIAtlas/Shared/Shared1.asset" />
+  </Asset>
+  <Asset Id="1003" AssetPath="UIAtlas/Skill_ZhanShi.asset" TotalSize="479.24">
+    <Depend AssetPath="UIAtlas/Shared/Shared1.asset" />
+  </Asset>
+  <Asset Id="1004" AssetPath="UIAtlas/ItemIconAtlas.asset" TotalSize="192.77">
+    <Depend AssetPath="UIAtlas/Shared/Shared1.asset" />
+  </Asset>
+</AssetList>

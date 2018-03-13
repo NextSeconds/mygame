@@ -1,0 +1,5 @@
+id	FilePath
+4000	Other\Material\MaskMaterial.mat
+4001	Other\Material\ModelRTT.mat
+4002	Other\Material\XRayMat.mat
+4003	Other\Material\ModelRTTOther.mat

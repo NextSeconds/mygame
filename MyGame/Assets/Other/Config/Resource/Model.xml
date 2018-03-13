@@ -1,0 +1,501 @@
+<AssetList>
+  <Asset Id="10001" AssetPath="Model/Warrior_Male_01.asset" TotalSize="631.65">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared50.asset" />
+  </Asset>
+  <Asset Id="10002" AssetPath="Model/Warrior_Male_06.asset" TotalSize="653.30">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared8.asset" />
+    <Depend AssetPath="Model/Shared/Shared10.asset" />
+    <Depend AssetPath="Model/Shared/Shared49.asset" />
+  </Asset>
+  <Asset Id="10003" AssetPath="Model/Warrior_Male_04.asset" TotalSize="635.86">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared8.asset" />
+    <Depend AssetPath="Model/Shared/Shared49.asset" />
+  </Asset>
+  <Asset Id="20501" AssetPath="Model/Warrior_Female_01.asset" TotalSize="497.40">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared34.asset" />
+  </Asset>
+  <Asset Id="20502" AssetPath="Model/Warrior_Female_06.asset" TotalSize="675.69">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared34.asset" />
+    <Depend AssetPath="Model/Shared/Shared48.asset" />
+  </Asset>
+  <Asset Id="20503" AssetPath="Model/Warrior_Female_04.asset" TotalSize="649.72">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared34.asset" />
+    <Depend AssetPath="Model/Shared/Shared48.asset" />
+  </Asset>
+  <Asset Id="31001" AssetPath="Model/Mage_Male_01.asset" TotalSize="670.05">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared32.asset" />
+    <Depend AssetPath="Model/Shared/Shared33.asset" />
+  </Asset>
+  <Asset Id="31002" AssetPath="Model/Mage_Male_03.asset" TotalSize="816.06">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared33.asset" />
+    <Depend AssetPath="Model/Shared/Shared47.asset" />
+  </Asset>
+  <Asset Id="31003" AssetPath="Model/Mage_Male_02.asset" TotalSize="809.36">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared33.asset" />
+    <Depend AssetPath="Model/Shared/Shared47.asset" />
+  </Asset>
+  <Asset Id="41501" AssetPath="Model/Mage_Female_01.asset" TotalSize="732.12">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared7.asset" />
+    <Depend AssetPath="Model/Shared/Shared32.asset" />
+  </Asset>
+  <Asset Id="41502" AssetPath="Model/Mage_Female_03.asset" TotalSize="850.24">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared7.asset" />
+    <Depend AssetPath="Model/Shared/Shared9.asset" />
+    <Depend AssetPath="Model/Shared/Shared24.asset" />
+    <Depend AssetPath="Model/Shared/Shared46.asset" />
+  </Asset>
+  <Asset Id="41503" AssetPath="Model/Mage_Female_02.asset" TotalSize="851.44">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared7.asset" />
+    <Depend AssetPath="Model/Shared/Shared9.asset" />
+    <Depend AssetPath="Model/Shared/Shared46.asset" />
+  </Asset>
+  <Asset Id="52001" AssetPath="Model/Archer_Male_01.asset" TotalSize="577.15">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared45.asset" />
+  </Asset>
+  <Asset Id="52002" AssetPath="Model/Archer_Male_02.asset" TotalSize="579.53">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared45.asset" />
+  </Asset>
+  <Asset Id="62501" AssetPath="Model/Archer_Female_01.asset" TotalSize="568.30">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared44.asset" />
+  </Asset>
+  <Asset Id="62502" AssetPath="Model/Archer_Female_02.asset" TotalSize="565.11">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared44.asset" />
+  </Asset>
+  <Asset Id="73001" AssetPath="Model/LaoHu_01.asset" TotalSize="407.53">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared23.asset" />
+    <Depend AssetPath="Model/Shared/Shared31.asset" />
+  </Asset>
+  <Asset Id="73002" AssetPath="Model/LaoHu_02.asset" TotalSize="407.41">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared23.asset" />
+    <Depend AssetPath="Model/Shared/Shared31.asset" />
+  </Asset>
+  <Asset Id="73003" AssetPath="Model/LaoHu_03.asset" TotalSize="403.40">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared23.asset" />
+    <Depend AssetPath="Model/Shared/Shared31.asset" />
+  </Asset>
+  <Asset Id="73004" AssetPath="Model/LaoHu_04.asset" TotalSize="376.34">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared23.asset" />
+  </Asset>
+  <Asset Id="73005" AssetPath="Model/XiongGuai_01.asset" TotalSize="350.73">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared22.asset" />
+    <Depend AssetPath="Model/Shared/Shared43.asset" />
+  </Asset>
+  <Asset Id="73006" AssetPath="Model/XiongGuai_02.asset" TotalSize="350.96">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared22.asset" />
+    <Depend AssetPath="Model/Shared/Shared43.asset" />
+  </Asset>
+  <Asset Id="73007" AssetPath="Model/XiongGuai_03.asset" TotalSize="296.51">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared22.asset" />
+  </Asset>
+  <Asset Id="73008" AssetPath="Model/XiongGuai_04.asset" TotalSize="297.06">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared22.asset" />
+  </Asset>
+  <Asset Id="73009" AssetPath="Model/RongYanGuai_01.asset" TotalSize="64.31">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared21.asset" />
+  </Asset>
+  <Asset Id="73010" AssetPath="Model/RongYanGuai_02.asset" TotalSize="67.89">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared21.asset" />
+  </Asset>
+  <Asset Id="73011" AssetPath="Model/RongYanGuai_03.asset" TotalSize="75.67">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared21.asset" />
+  </Asset>
+  <Asset Id="73012" AssetPath="Model/RongYanGuai_04.asset" TotalSize="76.44">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared21.asset" />
+  </Asset>
+  <Asset Id="73013" AssetPath="Model/MengZhuangShi_01.asset" TotalSize="335.42">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared20.asset" />
+  </Asset>
+  <Asset Id="73014" AssetPath="Model/MengZhuangShi_02.asset" TotalSize="336.41">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared20.asset" />
+  </Asset>
+  <Asset Id="73015" AssetPath="Model/MengZhuangShi_03.asset" TotalSize="337.11">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared20.asset" />
+  </Asset>
+  <Asset Id="73016" AssetPath="Model/MengZhuangShi_04.asset" TotalSize="337.64">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared20.asset" />
+  </Asset>
+  <Asset Id="73017" AssetPath="Model/ShanChengTuFei_01.asset" TotalSize="319.50">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared19.asset" />
+    <Depend AssetPath="Model/Shared/Shared30.asset" />
+    <Depend AssetPath="Model/Shared/Shared42.asset" />
+  </Asset>
+  <Asset Id="73018" AssetPath="Model/ShanChengTuFei_02.asset" TotalSize="322.74">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared19.asset" />
+    <Depend AssetPath="Model/Shared/Shared30.asset" />
+    <Depend AssetPath="Model/Shared/Shared42.asset" />
+  </Asset>
+  <Asset Id="73019" AssetPath="Model/ShanChengTuFei_03.asset" TotalSize="325.31">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared18.asset" />
+    <Depend AssetPath="Model/Shared/Shared19.asset" />
+    <Depend AssetPath="Model/Shared/Shared41.asset" />
+  </Asset>
+  <Asset Id="73020" AssetPath="Model/ShanChengTuFei_04.asset" TotalSize="324.18">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared18.asset" />
+    <Depend AssetPath="Model/Shared/Shared19.asset" />
+    <Depend AssetPath="Model/Shared/Shared41.asset" />
+  </Asset>
+  <Asset Id="73021" AssetPath="Model/ShanChengTuFei_05.asset" TotalSize="390.43">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared17.asset" />
+    <Depend AssetPath="Model/Shared/Shared18.asset" />
+    <Depend AssetPath="Model/Shared/Shared30.asset" />
+  </Asset>
+  <Asset Id="73022" AssetPath="Model/ShanChengTuFei_06.asset" TotalSize="356.60">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared17.asset" />
+  </Asset>
+  <Asset Id="73023" AssetPath="Model/ShanChengTuFei_07.asset" TotalSize="392.57">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared17.asset" />
+    <Depend AssetPath="Model/Shared/Shared18.asset" />
+    <Depend AssetPath="Model/Shared/Shared40.asset" />
+  </Asset>
+  <Asset Id="73024" AssetPath="Model/ShanChengTuFei_08.asset" TotalSize="356.94">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared4.asset" />
+    <Depend AssetPath="Model/Shared/Shared17.asset" />
+    <Depend AssetPath="Model/Shared/Shared40.asset" />
+  </Asset>
+  <Asset Id="73025" AssetPath="Model/MingYao_01.asset" TotalSize="257.22">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared16.asset" />
+  </Asset>
+  <Asset Id="73026" AssetPath="Model/MingYao_02.asset" TotalSize="262.99">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared16.asset" />
+  </Asset>
+  <Asset Id="73027" AssetPath="Model/MingYao_03.asset" TotalSize="261.35">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared16.asset" />
+  </Asset>
+  <Asset Id="73028" AssetPath="Model/MingYao_04.asset" TotalSize="268.58">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared16.asset" />
+  </Asset>
+  <Asset Id="73029" AssetPath="Model/NanShanDaWang_01.asset" TotalSize="468.96">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared29.asset" />
+  </Asset>
+  <Asset Id="73030" AssetPath="Model/NanShanDaWang_02.asset" TotalSize="476.38">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared29.asset" />
+  </Asset>
+  <Asset Id="73031" AssetPath="Model/NanShanDaWang_03.asset" TotalSize="485.65">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared29.asset" />
+  </Asset>
+  <Asset Id="73032" AssetPath="Model/ShanZei_01.asset" TotalSize="268.47">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared15.asset" />
+  </Asset>
+  <Asset Id="73033" AssetPath="Model/ShanZei_02.asset" TotalSize="287.42">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared15.asset" />
+  </Asset>
+  <Asset Id="73034" AssetPath="Model/ShanZei_03.asset" TotalSize="289.25">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared15.asset" />
+  </Asset>
+  <Asset Id="73035" AssetPath="Model/ShanZei_04.asset" TotalSize="296.18">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared15.asset" />
+  </Asset>
+  <Asset Id="73036" AssetPath="Model/GuiMianRen_01.asset" TotalSize="214.05">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared14.asset" />
+  </Asset>
+  <Asset Id="73037" AssetPath="Model/GuiMianRen_02.asset" TotalSize="214.24">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared14.asset" />
+  </Asset>
+  <Asset Id="73038" AssetPath="Model/GuiMianRen_03.asset" TotalSize="215.25">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared14.asset" />
+  </Asset>
+  <Asset Id="73039" AssetPath="Model/GuiMianRen_04.asset" TotalSize="215.44">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared14.asset" />
+  </Asset>
+  <Asset Id="73040" AssetPath="Model/ZhiZhuJing_01.asset" TotalSize="402.09">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared13.asset" />
+    <Depend AssetPath="Model/Shared/Shared28.asset" />
+  </Asset>
+  <Asset Id="73041" AssetPath="Model/ZhiZhuJing_02.asset" TotalSize="425.79">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared13.asset" />
+    <Depend AssetPath="Model/Shared/Shared28.asset" />
+    <Depend AssetPath="Model/Shared/Shared39.asset" />
+  </Asset>
+  <Asset Id="73042" AssetPath="Model/ZhiZhuJing_03.asset" TotalSize="403.73">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared13.asset" />
+    <Depend AssetPath="Model/Shared/Shared28.asset" />
+    <Depend AssetPath="Model/Shared/Shared39.asset" />
+  </Asset>
+  <Asset Id="73043" AssetPath="Model/ZhiZhuJing_04.asset" TotalSize="401.89">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared13.asset" />
+  </Asset>
+  <Asset Id="73044" AssetPath="Model/BaiLuJing_01.asset" TotalSize="422.00">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared27.asset" />
+  </Asset>
+  <Asset Id="73045" AssetPath="Model/BaiLuJing_02.asset" TotalSize="409.99">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared27.asset" />
+  </Asset>
+  <Asset Id="73046" AssetPath="Model/BaiLuJing_03.asset" TotalSize="408.49">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared27.asset" />
+  </Asset>
+  <Asset Id="73047" AssetPath="Model/XiYiJing_01.asset" TotalSize="310.50">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared12.asset" />
+    <Depend AssetPath="Model/Shared/Shared38.asset" />
+  </Asset>
+  <Asset Id="73048" AssetPath="Model/XiYiJing_02.asset" TotalSize="309.44">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared12.asset" />
+  </Asset>
+  <Asset Id="73049" AssetPath="Model/XiYiJing_03.asset" TotalSize="344.74">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared12.asset" />
+    <Depend AssetPath="Model/Shared/Shared38.asset" />
+  </Asset>
+  <Asset Id="73050" AssetPath="Model/XiYiJing_04.asset" TotalSize="309.29">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared12.asset" />
+  </Asset>
+  <Asset Id="74001" AssetPath="Model/HuoLang_01.asset" TotalSize="161.33">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+  </Asset>
+  <Asset Id="74002" AssetPath="Model/QianZhangGui_01.asset" TotalSize="71.03">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+  </Asset>
+  <Asset Id="74003" AssetPath="Model/Chuansongdian_01.asset" TotalSize="185.18">
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared26.asset" />
+  </Asset>
+  <Asset Id="75001" AssetPath="Model/ChiBang_01.asset" TotalSize="52.44" />
+  <Asset Id="75002" AssetPath="Model/LangQi_01.asset" TotalSize="131.75">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+  </Asset>
+  <Asset Id="75003" AssetPath="Model/ZhanQi_01.asset" TotalSize="40.84">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+  </Asset>
+  <Asset Id="87001" AssetPath="Model/Sword_Dadao_01.asset" TotalSize="79.87">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared50.asset" />
+  </Asset>
+  <Asset Id="87002" AssetPath="Model/Staff_Fazhang_01.asset" TotalSize="58.37">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared32.asset" />
+  </Asset>
+  <Asset Id="87003" AssetPath="Model/Bow_Gongjian_01.asset" TotalSize="42.89">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+  </Asset>
+  <Asset Id="87004" AssetPath="Model/Chutou_01.asset" TotalSize="11.31">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared37.asset" />
+  </Asset>
+  <Asset Id="87005" AssetPath="Model/Yugan_01.asset" TotalSize="12.55">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared37.asset" />
+  </Asset>
+  <Asset Id="1201001" AssetPath="Model/Warrior_Male_06_v1.asset" TotalSize="612.65">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared8.asset" />
+    <Depend AssetPath="Model/Shared/Shared10.asset" />
+    <Depend AssetPath="Model/Shared/Shared11.asset" />
+  </Asset>
+  <Asset Id="1201002" AssetPath="Model/Warrior_Male_06_v2.asset" TotalSize="612.67">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared8.asset" />
+    <Depend AssetPath="Model/Shared/Shared10.asset" />
+    <Depend AssetPath="Model/Shared/Shared11.asset" />
+  </Asset>
+  <Asset Id="1201003" AssetPath="Model/Warrior_Male_06_v3.asset" TotalSize="627.66">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared8.asset" />
+    <Depend AssetPath="Model/Shared/Shared10.asset" />
+    <Depend AssetPath="Model/Shared/Shared11.asset" />
+    <Depend AssetPath="Model/Shared/Shared26.asset" />
+    <Depend AssetPath="Model/Shared/Shared36.asset" />
+  </Asset>
+  <Asset Id="1201004" AssetPath="Model/Warrior_Male_06_v4.asset" TotalSize="758.00">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared6.asset" />
+    <Depend AssetPath="Model/Shared/Shared8.asset" />
+    <Depend AssetPath="Model/Shared/Shared10.asset" />
+    <Depend AssetPath="Model/Shared/Shared11.asset" />
+    <Depend AssetPath="Model/Shared/Shared26.asset" />
+    <Depend AssetPath="Model/Shared/Shared36.asset" />
+  </Asset>
+  <Asset Id="1204001" AssetPath="Model/Mage_Female_03_v1.asset" TotalSize="801.61">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared7.asset" />
+    <Depend AssetPath="Model/Shared/Shared9.asset" />
+    <Depend AssetPath="Model/Shared/Shared24.asset" />
+    <Depend AssetPath="Model/Shared/Shared25.asset" />
+  </Asset>
+  <Asset Id="1204002" AssetPath="Model/Mage_Female_03_v2.asset" TotalSize="813.91">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared7.asset" />
+    <Depend AssetPath="Model/Shared/Shared9.asset" />
+    <Depend AssetPath="Model/Shared/Shared24.asset" />
+    <Depend AssetPath="Model/Shared/Shared25.asset" />
+    <Depend AssetPath="Model/Shared/Shared35.asset" />
+  </Asset>
+  <Asset Id="1204003" AssetPath="Model/Mage_Female_03_v3.asset" TotalSize="847.86">
+    <Depend AssetPath="Model/Shared/Shared1.asset" />
+    <Depend AssetPath="Model/Shared/Shared2.asset" />
+    <Depend AssetPath="Model/Shared/Shared3.asset" />
+    <Depend AssetPath="Model/Shared/Shared5.asset" />
+    <Depend AssetPath="Model/Shared/Shared7.asset" />
+    <Depend AssetPath="Model/Shared/Shared9.asset" />
+    <Depend AssetPath="Model/Shared/Shared24.asset" />
+    <Depend AssetPath="Model/Shared/Shared25.asset" />
+    <Depend AssetPath="Model/Shared/Shared35.asset" />
+  </Asset>
+</AssetList>
