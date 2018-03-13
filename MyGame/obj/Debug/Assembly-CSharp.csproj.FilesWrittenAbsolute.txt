@@ -1,0 +1,17 @@
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/UnityEngine.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/UnityEditor.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Assembly-UnityScript-firstpass.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/neworigin/Documents/UnityProject/MyGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
