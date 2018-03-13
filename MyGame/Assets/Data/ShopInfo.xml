@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ShopInfo>
+  <clothes ID="1001" Icon="31" Name="龙鳞甲" Price="1000" shuxing="500" zhanli="200"/> 
+  <clothes ID="1002" Icon="20" Name="日炎斗篷" Price="2000" shuxing="700" zhanli="300"/> 
+  <weapons ID="1003" Icon="2" Name="破甲弓" Price="1000" shuxing="200" zhanli="200"/> 
+  <hat ID="1004" Icon="39" Name="忍者帽" Price="200" shuxing="50" zhanli="50"/> 
+  <shoes ID="1005" Icon="36" Name="飞翔靴" Price="1000" shuxing="200" zhanli="100"/> 
+  <weapons ID="1006" Icon="11" Name="夜刃" Price="2000" shuxing="500" zhanli="300"/> 
+  <medicine ID="1007" Icon="17" Name="血珠" Price="100" shuxing="100" zhanli="0"/> 
+  <medicine ID="2008" Icon="5" Name="蓝珠" Price="100" shuxing="100" zhanli="0"/> 
+  <weapons ID="1009" Icon="28" Name="血之匕首" Price="2000" shuxing="800" zhanli="400"/>
+  <hat ID="1010" Icon="39" Name="忍者帽" Price="200" shuxing="50" zhanli="50"/> 
+  <clothes ID="1011" Icon="6" Name="勇者铠甲" Price="3000" shuxing="1000" zhanli="500"/> 
+  <weapons ID="1012" Icon="13" Name="三叉火戟" Price="3000" shuxing="1000" zhanli="500"/> 
+  <shoes ID="1013" Icon="40" Name="手鞋" Price="500" shuxing="100" zhanli="50"/> 
+  <weapons ID="1014" Icon="8" Name="光之破灭" Price="4000" shuxing="1200" zhanli="600"/> 
+  <weapons ID="1015" Icon="22" Name="撼地锤" Price="5000" shuxing="1500" zhanli="750"/> 
+  <shoes ID="1016" Icon="7" Name="白毛靴子" Price="1500" shuxing="400" zhanli="200"/>
+</ShopInfo>

@@ -1,0 +1,24 @@
+<Mess>
+  <Hero>
+    <PlayerName>狗狗</PlayerName>
+    <Level>1</Level>
+    <EXP>0</EXP>
+    <LevelNum>1</LevelNum>
+    <HP>2000</HP>
+    <MP>1000</MP>
+    <CurrentHP>2000</CurrentHP>
+    <CurrentMP>1000</CurrentMP>
+    <Damage>10</Damage>
+    <Defense>10</Defense>
+    <Money>90000</Money>
+    <JveSe>0</JveSe>
+  </Hero>
+  <Clothes>
+    <hat />
+    <weapons />
+    <shoes />
+    <clothes />
+  </Clothes>
+  <items>
+  </items>
+</Mess>

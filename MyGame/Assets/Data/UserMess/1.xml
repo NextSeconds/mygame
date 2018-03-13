@@ -1,0 +1,23 @@
+<Mess>
+  <Hero>
+    <PlayerName>傻猪</PlayerName>
+    <Level>1</Level>
+    <EXP>0</EXP>
+    <LevelNum>2</LevelNum>
+    <HP>2000</HP>
+    <MP>1000</MP>
+    <CurrentHP>2000</CurrentHP>
+    <CurrentMP>1000</CurrentMP>
+    <Damage>10</Damage>
+    <Defense>10</Defense>
+    <Money>1040</Money>
+    <JveSe>1</JveSe>
+  </Hero>
+  <Clothes>
+    <hat />
+    <weapons />
+    <shoes />
+    <clothes />
+  </Clothes>
+  <items />
+</Mess>
